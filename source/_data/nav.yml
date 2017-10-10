@@ -1,0 +1,10 @@
+- title: title1
+  items:
+  - id: item1
+    title: item1 title
+  - id: item2
+    title: item2 title
+- title: title2
+  items:
+  - id: item3
+    title: item3 title
